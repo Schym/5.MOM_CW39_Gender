@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "MakeoverMonday 2018 - CW 39"
-baseURL = "http://localhost:1313/"
+baseURL = "https://wizardly-hoover-d36dbc.netlify.com/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
